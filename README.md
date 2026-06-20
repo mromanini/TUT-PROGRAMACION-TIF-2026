@@ -4,9 +4,9 @@
 ## Carrera
 Tecnicatura en Telecomunicaciones
 ## Materia
-Programacion
+Programación
 ## Programa Utilizado
 - PseInt
 - Python Google Colab
 ## Descripción
-El trabajo practico integrador final consta de 10 ejercicios 9 de los cuales se desarrollaron utilizando psint y uno utilizando google colab (python)
+El trabajo práctico integrador final consta de 10 ejercicios 9 de los cuales se desarrollaron utilizando psint y uno utilizando google colab (python)
